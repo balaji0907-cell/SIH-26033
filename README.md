@@ -137,3 +137,147 @@ Farmer → Product Listing → FarmBridge Platform → Buyer Matching → Order 
 4. OpenStreetMap – Mapping Services: https://www.openstreetmap.org/
 5. Python Official Documentation: https://docs.python.org/3/
 6. React Official Documentation: https://react.dev/
+
+
+# SMART INDIA HACKATHON WORKSHOP
+## DRAFT – 2
+
+**Date:** 25-11-2026
+
+**Reference Number:** 26001130
+
+**Name:** Balaji Sakthivel.V
+
+## Problem Title
+
+**Smart Waste Management System – Improving Waste Collection and Recycling Using IoT and Digital Technology.**
+
+## Problem Creator's Organization
+
+Ministry of Housing and Urban Affairs
+
+## Theme
+
+Clean & Green Technology
+
+## Problem Description
+
+Improper waste disposal and inefficient waste collection create environmental pollution and health problems. Traditional waste collection methods often result in overflowing dustbins, unnecessary vehicle trips and poor waste segregation.
+
+**Expected Solution:**
+
+Create a smart waste management system that:
+
+- Monitors dustbin levels using smart sensors.
+- Provides alerts when dustbins are full.
+- Helps identify suitable waste collection routes.
+- Encourages waste segregation and recycling.
+
+**Benefits:**
+
+- Cleaner surroundings.
+- Reduced environmental pollution.
+- Efficient waste collection.
+- Improved recycling activities.
+
+## Proposed Solution
+
+**Project Name: EcoTrack – Smart Waste Management System**
+
+EcoTrack is a digital platform designed to improve waste collection and recycling using smart technology.
+
+- Smart sensors monitor the filling levels of public dustbins.
+- The system sends notifications when dustbins are nearly full.
+- A dashboard displays dustbin locations and their current status.
+- Collection workers can view collection requirements.
+- Route optimization helps reduce unnecessary travel.
+- Citizens can report overflowing dustbins through the platform.
+
+The main innovation is combining real-time dustbin monitoring, citizen reporting and optimized waste collection in one platform.
+
+## Technical Approach
+
+**Technologies to be used:**
+
+- Frontend: HTML, CSS and JavaScript.
+- Backend: Python (Django / Flask).
+- Database: MySQL.
+- Hardware: ESP32 and ultrasonic sensors.
+- Communication: Wi-Fi / IoT.
+- Maps: OpenStreetMap.
+
+**Implementation Methodology:**
+
+1. Develop an admin dashboard.
+2. Connect ultrasonic sensors to smart dustbins.
+3. Measure the waste filling level.
+4. Send sensor data to the database.
+5. Display dustbin status on the dashboard.
+6. Generate alerts for nearly full dustbins.
+7. Provide suitable collection routes for workers.
+8. Test the system using prototype dustbins.
+
+**System Workflow:**
+
+Smart Dustbin → Sensors → Data Collection → Cloud Database → Admin Dashboard → Alert Generation → Waste Collection
+
+## Feasibility and Viability
+
+**Feasibility:**
+
+- Uses affordable IoT components.
+- Can be developed using open-source technologies.
+- Can be implemented in residential areas and public places.
+- Can be expanded to multiple locations.
+
+**Potential Challenges:**
+
+- Sensor accuracy problems.
+- Internet connectivity issues.
+- Hardware maintenance.
+- Initial installation expenses.
+
+**Solutions to Challenges:**
+
+- Use suitable sensors and regular calibration.
+- Store data temporarily when connectivity is unavailable.
+- Perform regular hardware maintenance.
+- Start with a small prototype before large-scale implementation.
+
+## Impact and Benefits
+
+**Benefits for Citizens:**
+
+- Cleaner public places.
+- Reduced overflowing dustbins.
+- Easy complaint reporting.
+
+**Benefits for Municipal Workers:**
+
+- Better collection planning.
+- Reduced unnecessary travel.
+- Real-time dustbin status updates.
+
+**Environmental Benefits:**
+
+- Reduced pollution.
+- Improved waste segregation.
+- Increased recycling opportunities.
+- Reduced fuel consumption through better routes.
+
+**Social and Economic Impact:**
+
+- Improves public hygiene.
+- Reduces waste management expenses.
+- Supports smart city development.
+- Creates awareness about responsible waste disposal.
+
+## Research and References
+
+1. Swachh Bharat Mission: https://swachhbharatmission.ddws.gov.in/
+2. Ministry of Housing and Urban Affairs: https://mohua.gov.in/
+3. Arduino Official Website: https://www.arduino.cc/
+4. ESP32 Documentation: https://docs.espressif.com/
+5. OpenStreetMap: https://www.openstreetmap.org/
+6. Python Official Documentation: https://docs.python.org/3/
+
